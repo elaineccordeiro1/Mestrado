@@ -26,7 +26,7 @@ O artigo analisa diferentes abordagens relacionadas a Jogos Sérios, como Edutai
 Este artigo realiza uma análise conceitual comparativa entre os termos: **Jogos Sérios (JS), Jogos Educacionais (JE), Game-Based Learning (GBL), DGBL e Teoria dos Jogos (TJ)**. Como validação, foi criado um **jogo tipo quiz** para diferenciar os conceitos estudados.
 
 ### 📎 Arquivo:
-[`Analise_Conceitos_Jogos_Sérios.pdf`](./artigo_analise_conceitos_jogos_serios.pdf)
+[`Analise_Conceitos_Jogos_Sérios.pdf`](./ArtigoJS.pdf)
 
 ---
 
