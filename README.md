@@ -1,42 +1,58 @@
-🔍 Artigo Acadêmico – Jogos Sérios no Mestrado em Computação Aplicada
-# 🎮 Abordagens Relacionadas a Jogos Sérios: Diferenças e Confusões
+# 🎓 Artigos Acadêmicos sobre Jogos Sérios
 
-Este repositório reúne o artigo científico intitulado **“Abordagens Relacionadas a Jogos Sérios: Diferenças e Confusões”**, apresentado no Programa de Pós-Graduação em Computação Aplicada da Universidade do Estado de Santa Catarina (UDESC).
+Este repositório reúne dois artigos desenvolvidos durante o Programa de Pós-Graduação em Computação Aplicada (PPGCA) da Universidade do Estado de Santa Catarina (UDESC), com foco em definições, abordagens e classificações relacionadas a **Jogos Sérios** e seu uso em ambientes educacionais e de simulação.
 
-## 📘 Sobre o Artigo
+---
 
-O trabalho discute os principais conceitos, semelhanças e diferenças entre:
+## 📄 1. Abordagens Relacionadas a Jogos Sérios: Diferenças e Confusões
+
+**Autores:** Elaine C. Cordeiro, Janaína Schwarzrock, Mayco F. de Carvalho  
+📍 **UDESC – Programa de Pós-Graduação em Computação Aplicada**
+
+### ✍️ Resumo
+O artigo analisa diferentes abordagens relacionadas a Jogos Sérios, como Edutainment, DGBL, Realidade Virtual, Simulação e Gamification. Apresenta um diagrama comparativo e desenvolve um **jogo da memória** para fixação dos conceitos.
+
+### 📎 Arquivo:
+[`Abordagens_Relacionadas_a_Jogos_Sérios.pdf`](./Abordagens%20Relacionadas%20a%20Jogos%20Sérios%20-%20Diferenças%20e%20Confusões.pdf)
+
+---
+
+## 📄 2. Análise sobre Conceitos e Definições Relacionados com Jogos Sérios
+
+**Autores:** Elaine Cristina Cordeiro, Helder Cognaco de Oliveira, Tatiele Martins Razera  
+📍 **UDESC – Programa de Pós-Graduação em Computação Aplicada**
+
+### ✍️ Resumo
+Este artigo realiza uma análise conceitual comparativa entre os termos: **Jogos Sérios (JS), Jogos Educacionais (JE), Game-Based Learning (GBL), DGBL e Teoria dos Jogos (TJ)**. Como validação, foi criado um **jogo tipo quiz** para diferenciar os conceitos estudados.
+
+### 📎 Arquivo:
+[`Analise_Conceitos_Jogos_Sérios.pdf`](./artigo_analise_conceitos_jogos_serios.pdf)
+
+---
+
+## 🧠 Temas Abordados
 
 - Jogos Sérios (Serious Games)
+- Game-Based Learning (GBL)
+- Digital Game-Based Learning (DGBL)
 - Jogos Educacionais
 - Edutainment
-- Digital Game-Based Learning (DGBL)
 - Gamification
 - Realidade Virtual
 - Simulação
 - Teoria dos Jogos
 
-## 🧠 Objetivo
+---
 
-Explorar e esclarecer as confusões comuns entre os termos relacionados a jogos aplicados à educação, treinamento e simulação.  
-Além disso, propor uma ferramenta lúdica que contribua para o entendimento desses conceitos.
- 
-## 📎 Arquivo
+## 🛠️ Tecnologias Utilizadas nos Jogos Desenvolvidos
 
-- [`Abordagens_Relacionadas_a_Jogos_Sérios.pdf`](./Abordagens%20Relacionadas%20a%20Jogos%20Sérios%20-%20Diferenças%20e%20Confusões.pdf)
-
-## 👩 Autoria
-
-- **Elaine Cristina Cordeiro**  
-- Janaína Schwarzrock  
-- Mayco Farias de Carvalho
+- HTML, CSS, JavaScript (jogo da memória)
+- C# com .NET Framework 3.5 (jogo quiz de perguntas e respostas)
 
 ---
 
-> Programa de Pós-Graduação em Computação Aplicada  
-> Universidade do Estado de Santa Catarina – UDESC  
-> Campus Joinville – SC, Brasil
-
 ## 📬 Contato
 
-`elaineccordeiro@gmail.com`
+📧 `elaineccordeiro@gmail.com`
+
+---
