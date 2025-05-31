@@ -1,6 +1,8 @@
 # 🎓 Artigos Acadêmicos sobre Jogos Sérios
 
 Este repositório reúne dois artigos desenvolvidos durante o Programa de Pós-Graduação em Computação Aplicada (PPGCA) da Universidade do Estado de Santa Catarina (UDESC), com foco em definições, abordagens e classificações relacionadas a Jogos Sérios e seu uso em ambientes educacionais e de simulação.
+Além dos artigos, o repositório também inclui dois jogos interativos — um jogo da memória e um quiz — desenvolvidos como recursos complementares para reforçar os conceitos apresentados.
+
 
 ---
 
