@@ -56,6 +56,10 @@ Este artigo realiza uma análise conceitual comparativa entre os termos: Jogos S
 
 Este jogo interativo em formato de quiz foi desenvolvido como parte complementar ao segundo artigo, com o objetivo de testar conhecimentos sobre conceitos-chave relacionados a Jogos Sérios.
 
+## 🎥 Visual do Jogo
+
+![Interface do Quiz](quiz.png)
+
 ### ✅ Funcionalidades
 
 - Exibição de perguntas com múltiplas escolhas
