@@ -15,6 +15,27 @@ O artigo analisa diferentes abordagens relacionadas a Jogos Sérios, como Edutai
 ### 📎 Arquivo:
 [`Abordagens_Relacionadas_a_Jogos_Sérios.pdf`](./Abordagens%20Relacionadas%20a%20Jogos%20Sérios%20-%20Diferenças%20e%20Confusões.pdf)
 
+## 🧠 Jogo da Memória – Conceitos sobre Jogos Sérios
+
+Este mini game foi desenvolvido como complemento ao artigo  
+**“Abordagens Relacionadas a Jogos Sérios: Diferenças e Confusões”**, apresentado no programa de Pós-Graduação em Computação Aplicada (UDESC).
+
+🎯 O objetivo é reforçar conceitos como:
+
+- Jogos Sérios (Serious Games)  
+- Edutainment  
+- Game-Based Learning (GBL)  
+- Teoria dos Jogos  
+- Gamificação  
+- Realidade Virtual e Simulação
+
+🔧 **Tecnologias utilizadas**:  
+HTML, CSS e JavaScript
+
+📁 A pasta `jogo-da-memoria/` contém todos os arquivos necessários para execução local.
+
+💡 Basta abrir o arquivo `index.html` no navegador para jogar.
+
 ---
 
 ## 📄 2. Análise sobre Conceitos e Definições Relacionados com Jogos Sérios
