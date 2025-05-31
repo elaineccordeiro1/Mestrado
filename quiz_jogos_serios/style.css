@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #8EC5FC, #E0C3FC);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container {
+  background: white;
+  padding: 2rem;
+  border-radius: 16px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+  width: 90%;
+  max-width: 600px;
+  text-align: center;
+  animation: slideIn 0.5s ease-out;
+}
+@keyframes slideIn {
+  from { transform: translateY(20px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+h1 {
+  color: #5A189A;
+}
+#quiz-box {
+  margin-top: 1rem;
+}
+#pergunta {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+#opcoes {
+  list-style: none;
+  padding: 0;
+}
+#opcoes li {
+  background: #f0eaff;
+  margin: 0.5rem 0;
+  padding: 0.75rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+#opcoes li:hover {
+  background: #d0b3ff;
+}
+#dica {
+  margin: 1rem 0;
+  color: #555;
+  font-style: italic;
+}
+#dica-btn, #proxima {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  background: #9D4EDD;
+  color: white;
+  font-weight: bold;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+#dica-btn:hover, #proxima:hover {
+  background: #7B2CBF;
+}
+#resultado {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #3A0CA3;
+  margin-top: 1rem;
+}
+.hidden {
+  display: none;
+}
