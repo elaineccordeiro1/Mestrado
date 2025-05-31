@@ -22,6 +22,10 @@ O artigo analisa diferentes abordagens relacionadas a Jogos Sérios, como Edutai
 Este mini game foi desenvolvido como complemento ao artigo  
 “Abordagens Relacionadas a Jogos Sérios: Diferenças e Confusões”.
 
+## 🎥 Visual do Jogo
+
+![Interface do Quiz](jogo_da_memoria.png)
+
 🎯 **Objetivo:** Reforçar conceitos como:
 - Jogos Sérios (Serious Games)
 - Edutainment
