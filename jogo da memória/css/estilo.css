@@ -1,0 +1,177 @@
+@font-face{
+    font-family: "ActionJackson";
+    src: url("fontes/ActionJackson.ttf");
+}
+*{
+    margin : 0px;
+    padding: 0px;
+    /*font-family: cursive;*/
+    font-family: Arial,sans-serif;
+}
+
+body{
+    background: rgb(240,240,240) url('imagens/fundo.png') repeat;
+}
+
+
+.fundo, .protetor{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top:0px;
+    left: 0px;
+}
+
+#fundoMsg,.protetor{
+    background-color: #343434;
+    opacity: 0.01;
+}
+#exibicaoCarta:hover{
+    cursor: pointer;
+}
+
+#exibicaoCarta{
+    margin: 100px auto 0;
+    max-width: 500px;
+    max-height: 500px;
+
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    padding: 5px;
+    border: 1px solid #000000;
+    text-align: center;
+
+}
+
+#exibicaoCarta img{
+    width: 100%;
+}
+
+#principal{
+
+}
+
+table{
+    border-spacing: 10px;
+}
+#cartas td{
+    width: 150px;
+    height: 108px;
+    /*    width: 200px;
+        height: 145px;*/
+    border: 2px solid rgb(188,199,203);
+    border-radius: 8px;
+    text-align: center;
+
+}
+
+#cartas img{
+    max-width: 150px;
+    max-height: 108px;
+
+    /*    max-width: 200px;
+        max-height: 145px;*/
+
+    border-radius: 8px;
+}
+
+.disponivel:hover{
+    cursor: pointer;
+}
+
+.selecionada:hover, .compar:hover{
+    cursor: help;
+}
+
+#cartas{
+    margin: 0 auto 0;
+}
+
+
+.selecionada{
+    //border: 1px solid #00FF00;
+}
+
+.compar{
+    //border: 1px solid #0000FF;
+}
+
+p{
+    font-family: cursive;
+    font-size: 18px;
+    padding: 10px;
+    height: 50px;
+}
+a{
+    text-decoration: none;
+    color: rgb(214,9,6);
+    font-weight: bold;
+}
+a:hover{
+    cursor: pointer;
+    font-style: italic;
+}
+h1{
+    padding: 5px;
+    text-align: center;
+    font-family: ActionJackson;
+    font-size: 30px;
+}
+
+
+
+#msg, #msgInicio{
+    font-family: Arial,sans-serif;
+    display: inline-block;
+    position: fixed;
+    border-radius: 6px;
+    padding: 10px;
+    font-size: 18px;
+    background-color: rgb(251,248,238);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.8);
+    border: 1px solid #fcd3a1;
+    color: #444444;
+
+}
+
+
+
+#msg{
+    left: 30px;
+    top: 15px;
+}
+
+#msgInicio{
+    left: 40%;
+    top: 30%;
+
+    text-align: center;
+    padding: 20px;
+}
+
+#msgInicio:hover{
+    cursor: pointer;
+}
+
+#msg:hover{
+    cursor: pointer;
+}
+
+#status{
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}
+
+#tempo{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    font-size: 30px;
+}
+
+#fase{
+    position: absolute;
+    top: 5px;
+    left: 10px;
+}
